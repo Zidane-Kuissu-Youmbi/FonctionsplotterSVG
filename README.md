@@ -174,6 +174,12 @@ String[] expressions = { fi, gi, pi, hi, ui, vi, ti };
 ---
 
 ## 📌 Author
+### ZIDANE SOREIL KUISSU YOUMBI
 Bioinformatics student (3rd semester)  
 Interested in **data analysis, scientific computing, and mathematical modeling**
+
+## 📸 Screenshots
+
+![SVG Plot](screenshots/plot.png)
+![AST Visualization](screenshots/ast.png)
 
